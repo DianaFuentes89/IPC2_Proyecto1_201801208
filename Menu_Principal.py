@@ -42,6 +42,7 @@ class menu:
                 print("")
 
             elif opcion == 6:
+                print("chao")
                 bandera = False
 
 menu().op()
